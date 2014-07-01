@@ -1,59 +1,10 @@
-#START#
-#
-#
-
-#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
-
-<poster>My Playlist Title</poster>
-<fanart></fanart>
-
-#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
-
-<info>
-	<message></message>
-	<message></message>
-	<message></message>
-	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
-</info>
-
-#PLAYLIST ITEMS#
+﻿#######################################################################################################################################
+<poster>Bad Al Hara 6 (باب الحارة الجزء 6)</poster>
+<fanart>http://i115.photobucket.com/albums/n310/homeless4ever/maxresdefault.jpg</fanart>
+#######################################################################################################################################
 
 <items>
-
-	<title></title>
-	<thumbnail></thumbnail>
-	<link></link>
-
-	<title></title>
-	<thumbnail></thumbnail>
-	<link></link>
-
-	<title></title>
-	<thumbnail></thumbnail>
-	<link></link>
-
-	<title></title>
-	<thumbnail></thumbnail>
-	<link></link>
-	
-	<title></title>
-	<thumbnail></thumbnail>
-	<link></link>
-
-	<title></title>
-	<thumbnail></thumbnail>
-	<link></link>
-
-	<title></title>
-	<thumbnail></thumbnail>
-	<link></link>
-
-	<title></title>
-	<thumbnail></thumbnail>
-	<link></link>
-	
+<title>Bad Al Hara S6 E1</title>
+<link>http://180upload.com/8gdggxxslk1n</link>
+<thumbnail>http://i115.photobucket.com/albums/n310/homeless4ever/0bab.jpg</thumbnail>
 </items>
-
-#
-#
-#END
